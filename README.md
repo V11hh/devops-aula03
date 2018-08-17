@@ -2,5 +2,6 @@
 
 * Meercurial
 * Git
+* GitLab
 * Subversion
 * CVS
